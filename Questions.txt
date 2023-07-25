@@ -1,0 +1,47 @@
+1) What is the primary function of a CPU (Central Processing Unit)? 
+a) Graphics rendering
+b) Memory storage
+c) Data input/output
+d) Processing instructions
+
+answer: d
+
+2) What does the GPU stand for in the context of computers?
+a) General Processing Unit
+b) Graphics Processing Unit
+c) Global Power Utilization
+d) General Productivity Upgrade
+
+answer: b
+
+3) Which planet in our solar system is known as the "Red Planet"?
+a) Venus
+b) Saturn 
+c) Jupiter
+d) Mars
+
+answer: d
+
+4) Which of the following is a renewable source of energy?
+a) Coal
+b) Natural Gas
+c) Solar Power
+d) Petroleum
+
+answer: c
+
+5) What is the largest continent on Earth?
+a) Europe
+b) Africa
+c) Asia
+d) South America
+
+answer: c
+
+6) Who is credited with inventing the telephone?
+a) Alexander Graham Bell
+b) Thomas Edison
+c) Nikola Tesla
+d) Isaac Newton
+
+answer: a
